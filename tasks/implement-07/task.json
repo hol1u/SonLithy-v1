@@ -1,0 +1,1 @@
+{"id":"implement-07","kind":"implement","prompt":"Implement top_k_words(text, k): count lowercase tokens matching [a-z0-9']+, then return up to k words ordered by descending count and alphabetical tie-break. For k <= 0 return [].","entry_file":"solution.py","timeout_s":2}

@@ -1,0 +1,1 @@
+{"id":"implement-09","kind":"implement","prompt":"Implement longest_unique_substring(text): return the length of the longest substring containing no repeated characters.","entry_file":"solution.py","timeout_s":2}

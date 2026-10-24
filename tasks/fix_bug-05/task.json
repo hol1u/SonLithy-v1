@@ -1,0 +1,1 @@
+{"id":"fix_bug-05","kind":"fix_bug","prompt":"Fix chunked(values, size) to split the sequence into lists of at most size items. Raise ValueError unless size is positive.","entry_file":"solution.py","timeout_s":2}

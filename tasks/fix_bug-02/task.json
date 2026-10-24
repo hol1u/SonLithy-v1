@@ -1,0 +1,1 @@
+{"id":"fix_bug-02","kind":"fix_bug","prompt":"Fix median(values) to return the middle value (or average of the middle pair) independent of input order. Raise ValueError for empty input.","entry_file":"solution.py","timeout_s":2}

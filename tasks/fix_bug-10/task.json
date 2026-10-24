@@ -1,0 +1,1 @@
+{"id":"fix_bug-10","kind":"fix_bug","prompt":"Fix percentile(values, p), where p is from 0 to 100, using linear interpolation between adjacent sorted values. Raise ValueError for empty input or out-of-range p.","entry_file":"solution.py","timeout_s":2}

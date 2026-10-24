@@ -1,0 +1,1 @@
+{"id":"implement-10","kind":"implement","prompt":"Implement parse_ranges(spec): parse comma-separated integers and inclusive a-b ranges (whitespace allowed) into an ascending list. Reject malformed items and descending ranges with ValueError.","entry_file":"solution.py","timeout_s":2}

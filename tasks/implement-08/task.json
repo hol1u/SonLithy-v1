@@ -1,0 +1,1 @@
+{"id":"implement-08","kind":"implement","prompt":"Implement flatten_dict(data): flatten nested dictionaries into dotted keys, leaving non-dictionary values as leaves. Empty nested dictionaries add no entries.","entry_file":"solution.py","timeout_s":2}

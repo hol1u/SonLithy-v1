@@ -1,0 +1,1 @@
+{"id":"fix_bug-03","kind":"fix_bug","prompt":"Fix binary_search(values, target) for ascending sorted sequences. Return the first matching index, or -1 if absent.","entry_file":"solution.py","timeout_s":2}

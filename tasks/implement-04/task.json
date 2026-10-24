@@ -1,0 +1,1 @@
+{"id":"implement-04","kind":"implement","prompt":"Implement rotate_list(values, k): return a new list rotated right by k places. Support negative k as rotation left and handle empty lists.","entry_file":"solution.py","timeout_s":2}

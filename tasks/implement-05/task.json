@@ -1,0 +1,1 @@
+{"id":"implement-05","kind":"implement","prompt":"Implement is_balanced(text) for (), [] and {}. Ignore all other characters. Return False for a mismatched or unclosed delimiter.","entry_file":"solution.py","timeout_s":2}

@@ -1,0 +1,1 @@
+{"id":"implement-01","kind":"implement","prompt":"Implement sum_nested(values), which returns the sum of integers in arbitrarily nested lists. Empty lists contribute zero.","entry_file":"solution.py","timeout_s":2}

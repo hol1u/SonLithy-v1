@@ -1,0 +1,1 @@
+{"id":"implement-06","kind":"implement","prompt":"Implement group_anagrams(words): group words with equal case-insensitive letter counts. Preserve first-seen group order and input order within each group.","entry_file":"solution.py","timeout_s":2}

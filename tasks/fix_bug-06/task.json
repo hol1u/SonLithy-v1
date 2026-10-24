@@ -1,0 +1,1 @@
+{"id":"fix_bug-06","kind":"fix_bug","prompt":"Fix fibonacci(n) to return the nth Fibonacci number with F(0)=0 and F(1)=1. Raise ValueError for negative n.","entry_file":"solution.py","timeout_s":2}

@@ -1,0 +1,1 @@
+{"id":"implement-02","kind":"implement","prompt":"Implement normalize_whitespace(text): trim the ends and replace every run of whitespace with one ASCII space.","entry_file":"solution.py","timeout_s":2}

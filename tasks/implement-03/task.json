@@ -1,0 +1,1 @@
+{"id":"implement-03","kind":"implement","prompt":"Implement merge_intervals(intervals): sort intervals [start, end] and merge overlapping intervals. Intervals that only touch at an endpoint are not merged. Return a new list.","entry_file":"solution.py","timeout_s":2}

@@ -1,0 +1,1 @@
+{"id":"fix_bug-07","kind":"fix_bug","prompt":"Fix is_palindrome(text) to ignore case and all non-alphanumeric characters while checking whether text reads the same in both directions.","entry_file":"solution.py","timeout_s":2}

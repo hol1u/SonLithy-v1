@@ -1,0 +1,1 @@
+{"id":"fix_bug-01","kind":"fix_bug","prompt":"Fix clamp(value, low, high) so it returns value constrained to the inclusive bounds. Raise ValueError when low > high.","entry_file":"solution.py","timeout_s":2}

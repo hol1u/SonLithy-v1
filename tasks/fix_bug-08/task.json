@@ -1,0 +1,1 @@
+{"id":"fix_bug-08","kind":"fix_bug","prompt":"Fix intersection_sorted(left, right) to return the sorted unique values present in both input sequences.","entry_file":"solution.py","timeout_s":2}
